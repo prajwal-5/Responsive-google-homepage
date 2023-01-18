@@ -160,6 +160,10 @@ footer{
         display: none;
     }
 
+    .only-mobile{
+        display: inline;
+    }
+
     .toggle-div{
         display: flex;
         justify-content: space-evenly;
@@ -287,6 +291,6 @@ footer{
     }
 
     .footer2-left > .element, .footer2-right > .element{
-        margin-inline: 1.5rem;
+        margin-inline: 0.75rem;
     }
 }
